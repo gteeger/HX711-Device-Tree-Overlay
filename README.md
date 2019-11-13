@@ -3,6 +3,7 @@
 This device tree overlay allows you to connect an hx711 to GPIO23 and GPIO24 pins on an Raspberry Pi A+.
 
 SCK -> GPIO23
+
 DOUT -> GPIO24
 
 The hx711 is a combined A2D converter and amplifier commonly used to sense loads.
