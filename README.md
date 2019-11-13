@@ -6,7 +6,7 @@ SCK -> GPIO23
 
 DOUT -> GPIO24
 
-The hx711 is a combined A2D converter and amplifier commonly used to sense loads.
+The hx711 is a combined A2D converter and amplifier commonly connected to load sensors.
 
 This was an especially difficult task because the hx711 is a bit banging device. It is not hooked into the i2c or SPI systems as usual, instead it is hooked into the Raspberry Pi's pinctrl subsystem.
 
