@@ -1,6 +1,6 @@
 # HX711-Device-Tree-Overlay
 
-This device tree overlay allows you to connect an hx711 to GPIO23 and GPIO24 pins on an Raspberry Pi A+.
+This device tree overlay allows you to connect an [HX711 load sensing amplifier](https://www.sparkfun.com/products/13879) to GPIO23 and GPIO24 pins on an Raspberry Pi A+.
 
 SCK -> GPIO23
 
